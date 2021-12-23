@@ -1,0 +1,10 @@
+the medbuff application in the feild of medical welfere app.
+
+using the MERN stack for the feontend and backend
+
+devlopment : node server +react server.
+deployment: node server +react scripts.
+
+the Advanced stuff with the django Api to habdlw multiple api calls.
+
+database as MongoDB and MySql. both from cloud. )may be.
