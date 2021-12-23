@@ -8,3 +8,9 @@ deployment: node server +react scripts.
 the Advanced stuff with the django Api to habdlw multiple api calls.
 
 database as MongoDB and MySql. both from cloud. )may be.
+
+
+#use the MVC tecqnique:
+Model : Schema(database)
+view : ui (frontend)
+Controller : routes (the url)
